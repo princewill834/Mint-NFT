@@ -1,0 +1,19 @@
+.btn{
+    margin: 80px;
+    cursor: pointer;
+    border: 1px solid #966909;
+    color: #fff;
+    border-radius: 5px;
+    font-family: inherit;
+    font-size: 1.1rem;
+    padding: 10px;
+    min-width: 200px;
+}
+.connect-wallet{
+    background-color: rgb(0, 47, 255);
+}
+
+.mint-nft{
+    background-color: black;
+    color: rgb(255, 0, 128);
+}
